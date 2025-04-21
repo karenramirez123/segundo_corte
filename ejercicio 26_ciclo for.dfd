@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+leidos
+1
+0
+5
+total
+1
+0
+9
+no_Leidos
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+9
+1
+1
+1
+4
+1
+195
+'El libro esta: ', '                                                                      1) Leido ',  '                                                                              2) No leido' 
+5
+1
+6
+estado
+6
+1
+5
+total
+9
+total + 1
+7
+0
+1
+10
+estado = 1
+6
+1
+9
+no_Leidos
+13
+no_Leidos + 1
+13
+6
+1
+6
+leidos
+10
+leidos + 1
+13
+10
+6
+2
+11
+porc_leidos
+22
+(leidos * 100) / total
+14
+porc_No_Leidos
+25
+(no_Leidos * 100) / total
+4
+1
+148
+'Porcentaje de libros leidos : ' , porc_leidos,' % ', '                             Porcentaje de libros NO leidos : ' , porc_No_leidos , ' % '     
+1

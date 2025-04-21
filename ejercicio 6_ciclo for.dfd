@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'Digite el numero de productos que desea comprar' 
+5
+1
+3
+num
+8
+1
+1
+i
+1
+1
+0
+1
+3
+num
+1
+1
+1
+4
+1
+20
+'Valor del producto'
+5
+1
+5
+valor
+4
+1
+27
+'Cantidad de este producto'
+5
+1
+8
+cantidad
+6
+1
+5
+total
+16
+valor * cantidad
+7
+0
+1
+15
+total >= 200000
+4
+1
+56
+'Este producto NO tiene descuento, su valor es: ', total
+6
+1
+11
+acumulador1
+5
+total
+13
+6
+1
+4
+desc
+20
+total - (total *0.1)
+4
+1
+64
+'Este producto tiene descuento del 10%, su valor es:  ', desc   
+6
+1
+10
+acumulador
+4
+desc
+13
+10
+6
+1
+7
+total_D
+24
+acumulador1 + acumulador
+4
+1
+7
+total_D
+1

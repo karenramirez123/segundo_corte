@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+cont1
+1
+0
+5
+cont2
+1
+0
+5
+cont3
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+2
+49
+1
+1
+1
+4
+1
+262
+'Selecciona el numero del candidato', '                                   1) # 01- Samuel Quintero' , '                                                     2) # 02 - Santiago Beltran' , '                                                    3) # 03 - Lucia Castro'
+5
+1
+9
+candidato
+7
+0
+1
+13
+candidato = 1
+7
+0
+1
+12
+candidato =2
+6
+1
+5
+cont3
+7
+cont3+1
+13
+6
+1
+5
+cont2
+7
+cont2+1
+13
+13
+6
+1
+5
+cont1
+7
+cont1+1
+13
+10
+4
+1
+372
+'Cantidad de personas que votaron por el candidato # 01 es:  ',cont1, '                                                                                 Cantidad de personas que votaron por el candidato # 02 es:  ', cont2 , '                                                                              Cantidad de personas que votaron por el candidato # 03 es:  ', cont3  
+7
+0
+1
+29
+cont1> cont2 and cont1> cont3
+7
+0
+1
+29
+cont2> cont1 and cont2> cont3
+4
+1
+47
+'El candidato GANADOR es:  # 03- Lucia Castro '
+13
+4
+1
+51
+'El candidato GANADOR es:  # 02- Santiago Beltran '
+13
+13
+4
+1
+50
+'El candidato GANADOR es:  # 01- Samuel Quintero '
+13
+1

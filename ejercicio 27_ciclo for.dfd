@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+total
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+2
+30
+1
+1
+1
+4
+1
+63
+'Digite la cantidad de minutos de celular consumidos en el dia'
+5
+1
+7
+minutos
+7
+0
+1
+11
+i MOD 2 = 0
+13
+6
+1
+5
+total
+15
+total + minutos
+13
+10
+4
+1
+47
+'Minutos gastados en los dias pares : ' , total
+1

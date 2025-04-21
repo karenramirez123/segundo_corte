@@ -1,0 +1,380 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+cont
+1
+0
+5
+lugar
+1
+0
+6
+llevar
+1
+0
+6
+3
+5
+mixta
+1
+0
+6
+carne 
+1
+0
+6
+pollo 
+1
+0
+6
+2
+9
+lugar_Emp
+1
+0
+10
+llevar_Emp
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+0
+1
+1
+1
+6
+3
+12
+total_llevar
+1
+0
+9
+acu_lugar
+1
+0
+10
+acu_llevar
+1
+0
+4
+1
+115
+'1) Para llevar',  '                                                                        2) comer en el lugar'  
+5
+1
+6
+llevar
+7
+0
+1
+10
+llevar = 1
+8
+1
+1
+i
+1
+1
+0
+1
+1
+2
+1
+1
+1
+4
+1
+290
+'1) Carne = 3.500 ', '                                                                      2) Pollo = 3.000 ', '                                                                        3) Mixta = 4.000', '                                                                         4) Ninguna '
+5
+1
+4
+tipo
+7
+0
+1
+8
+tipo = 4
+4
+1
+34
+'Digite la cantidad de empanadas' 
+5
+1
+4
+cant
+7
+0
+1
+9
+tipo = 1 
+7
+0
+1
+8
+tipo = 2
+6
+2
+5
+mixta
+12
+mixta + cant
+7
+mixta_T
+11
+cant * 4000
+4
+1
+32
+'Su valor a pagar es ' , mixta_T
+6
+1
+5
+total
+8
+mixta_T 
+13
+6
+2
+5
+pollo
+12
+pollo + cant
+7
+pollo_T
+11
+cant * 3000
+4
+1
+32
+'Su valor a pagar es ' , pollo_T
+6
+1
+5
+total
+8
+pollo_T 
+13
+13
+6
+2
+6
+carne 
+12
+carne + cant
+7
+carne_T
+11
+cant * 3500
+4
+1
+32
+'Su valor a pagar es ' , carne_T
+6
+1
+5
+total
+8
+carne_T 
+13
+13
+6
+1
+5
+total
+1
+0
+13
+6
+1
+10
+acu_lugar 
+15
+acu_lugar+total
+4
+1
+41
+'Su valor total a pagar es: ' , acu_lugar
+10
+6
+2
+5
+lugar
+12
+lugar+ total
+9
+lugar_Emp
+17
+mixta+pollo+carne
+13
+8
+1
+1
+i
+1
+1
+0
+1
+1
+2
+1
+1
+1
+4
+1
+290
+'1) Carne = 3.500 ', '                                                                      2) Pollo = 3.000 ', '                                                                        3) Mixta = 4.000', '                                                                         4) Ninguna '
+5
+1
+4
+tipo
+7
+0
+1
+8
+tipo = 4
+4
+1
+34
+'Digite la cantidad de empanadas' 
+5
+1
+4
+cant
+7
+0
+1
+9
+tipo = 1 
+7
+0
+1
+8
+tipo = 2
+6
+2
+5
+mixta
+12
+mixta + cant
+7
+mixta_T
+11
+cant * 4000
+4
+1
+32
+'Su valor a pagar es ' , mixta_T
+6
+1
+5
+total
+8
+mixta_T 
+13
+6
+2
+5
+pollo
+12
+pollo + cant
+7
+pollo_T
+11
+cant * 3000
+4
+1
+32
+'Su valor a pagar es ' , pollo_T
+6
+1
+5
+total
+8
+pollo_T 
+13
+13
+6
+2
+6
+carne 
+12
+carne + cant
+7
+carne_T
+11
+cant * 3500
+4
+1
+32
+'Su valor a pagar es ' , carne_T
+6
+1
+5
+total
+8
+carne_T 
+13
+13
+6
+1
+5
+total
+1
+0
+13
+6
+2
+10
+acu_llevar
+16
+acu_llevar+total
+12
+total_llevar
+15
+acu_llevar+3000
+4
+1
+44
+'Su valor total a pagar es: ' , total_llevar
+10
+6
+2
+6
+llevar
+21
+llevar + total_llevar
+10
+llevar_Emp
+17
+mixta+pollo+carne
+13
+6
+2
+6
+dinero
+12
+llevar+lugar
+3
+Emp
+22
+lugar_Emp + llevar_Emp
+10
+4
+1
+143
+'Dinero recaudado: ', dinero,'                                                                             Cantidad de empanadas vendidas', Emp
+1

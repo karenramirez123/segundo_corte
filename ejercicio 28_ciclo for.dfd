@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+suma
+1
+0
+6
+cuenta
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+9
+1
+1
+1
+4
+1
+39
+'Digite el valor de su recibo del agua'
+5
+1
+4
+agua
+4
+1
+40
+'Digite el valor de su recibo de la luz'
+5
+1
+3
+luz
+4
+1
+38
+'Digite el valor de su recibo del gas'
+5
+1
+3
+gas
+7
+0
+1
+47
+agua < 100000 and luz < 100000 and gas < 100000
+13
+6
+2
+4
+suma
+12
+suma + total
+6
+cuenta
+8
+cuenta+1
+13
+7
+0
+1
+10
+cuenta > 0
+4
+1
+30
+'No hubo meses con gasto bajo'
+13
+6
+1
+8
+promedio
+11
+suma/cuenta
+4
+1
+51
+'Promedio de gasto en meses normales : ' , promedio
+13
+10
+1

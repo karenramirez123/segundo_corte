@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+mayor
+1
+0
+5
+menor
+1
+0
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+2
+19
+1
+1
+1
+4
+1
+32
+'Digite el valor de su producto'
+5
+1
+4
+prod
+6
+1
+4
+suma
+11
+suma + prod
+7
+0
+1
+13
+prod >= 20000
+6
+1
+5
+menor
+9
+menor + 1
+13
+6
+1
+5
+mayor
+9
+mayor + 1
+13
+10
+4
+1
+183
+'Cantidad de productos mayores a 20000 es: ', mayor, '                   Cantidad de productos menores a 20000 es: ', menor, '                 Dinero recogido en el dia es : ' , suma 
+1

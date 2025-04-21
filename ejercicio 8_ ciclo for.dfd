@@ -1,0 +1,104 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+suma_P
+1
+0
+6
+mult_P
+1
+1
+6
+cont_P
+1
+0
+6
+3
+8
+suma_Imp
+1
+0
+8
+mult_Imp
+1
+1
+8
+cont_Imp
+1
+0
+4
+1
+20
+'Digite 20 numeros' 
+8
+1
+1
+i
+1
+1
+0
+1
+2
+19
+1
+1
+1
+5
+1
+3
+num
+7
+0
+1
+13
+num mod 2 = 0
+6
+3
+8
+suma_Imp
+15
+suma_Imp + num 
+8
+mult_Imp
+12
+mult_Imp*num
+8
+cont_Imp
+12
+cont_Imp + 1
+13
+6
+3
+6
+suma_P
+12
+suma_P + num
+6
+mult_P
+12
+mult_P * num
+6
+cont_P
+10
+cont_P + 1
+13
+10
+4
+1
+149
+'La cantidad de numeros pares de este rango es: ', cont_P,  '                            La cantidad de numeros impares de este rango es: ', cont_Imp
+4
+1
+125
+'La suma de los numeros pares es: ', suma_P , '                              La suma de los numeros impares es: ', suma_Imp  
+4
+1
+154
+'La multiplicacion de los numeros pares es: ', mult_P, '                                         La multiplicacion de los numeros impares es: ', mult_Imp 
+1

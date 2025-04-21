@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+12
+ahorro_total
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+2
+11
+1
+1
+1
+4
+1
+31
+'Digite el ingreso de cada mes'
+5
+1
+8
+ingresos
+4
+1
+29
+'Digite el gasto de cada mes'
+5
+1
+6
+gastos
+7
+0
+1
+17
+ingresos > gastos
+13
+6
+2
+6
+ahorro
+17
+ingresos - gastos
+12
+ahorro_total
+21
+ahorro_total + ahorro
+13
+10
+4
+1
+76
+'Ahorro total del año en los meses en donde hay ganancias : ' , ahorro_total
+1

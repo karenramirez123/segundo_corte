@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+10
+horas_cont
+1
+0
+4
+1
+29
+'Digite el valor de la hora' 
+5
+1
+6
+valor 
+8
+1
+1
+i
+1
+1
+0
+1
+1
+6
+1
+1
+1
+4
+1
+47
+'Digte su cantidad de horas de trabajo diarias'
+5
+1
+5
+horas
+6
+2
+10
+horas_cont
+17
+horas_cont +horas
+5
+total
+18
+horas_cont * valor
+10
+4
+1
+133
+'La cantidad de horas trabajadas son : ' , horas_cont, '                               El dinero ganado en esta semana es : ' , total
+1

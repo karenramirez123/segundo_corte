@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+14
+comision_total
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+2
+19
+1
+1
+1
+4
+1
+29
+'Digite el valor de la venta'
+5
+1
+5
+valor
+4
+1
+184
+'Digite el estado del carro' , '                                                     1) Nuevo ' , '                                                                            2) Usado'
+5
+1
+6
+estado
+7
+0
+1
+10
+estado = 1
+6
+1
+8
+comision
+12
+valor * 0.03
+13
+6
+1
+8
+comision
+12
+valor * 0.05
+13
+6
+1
+14
+comision_total
+25
+comision_total + comision
+10
+4
+1
+48
+'Comisión total del vendedor : ', comision_total
+1
