@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+tarjeta
+7
+2000000
+3
+acu
+1
+0
+4
+1
+30
+'Digite el valor de 5 compras'
+8
+1
+1
+i
+1
+1
+0
+1
+1
+4
+1
+1
+1
+5
+1
+5
+valor
+6
+2
+3
+iva
+18
+valor+(valor*0.19)
+3
+acu
+8
+acu +iva
+7
+0
+1
+13
+acu < tarjeta
+4
+1
+20
+'Saldo insuficiente'
+13
+6
+1
+5
+resta
+12
+tarjeta- acu
+13
+10
+4
+1
+122
+'El dinero gastado fue: ' , acu, '                                              El nuevo saldo de la tarjeta es: ' , resta
+1
