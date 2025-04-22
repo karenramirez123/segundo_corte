@@ -1,0 +1,114 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+1
+1
+1
+1
+4
+1
+29
+'Digite el valor de su saldo'
+5
+1
+5
+saldo
+4
+1
+27
+'Digite el valor a retirar'
+5
+1
+3
+ret
+7
+0
+1
+12
+ret >=100000
+6
+1
+5
+total
+3
+ret
+7
+0
+1
+12
+saldo<=total
+6
+1
+5
+resta
+11
+saldo-total
+4
+1
+29
+'El nuevo saldo es: ' , resta
+13
+4
+1
+21
+'Saldo insuficiente' 
+13
+13
+6
+1
+5
+total
+9
+ret +3000
+7
+0
+1
+12
+saldo<=total
+6
+1
+5
+resta
+11
+saldo-total
+4
+1
+29
+'El nuevo saldo es: ' , resta
+13
+4
+1
+21
+'Saldo insuficiente' 
+13
+13
+6
+1
+4
+suma
+11
+suma +resta
+10
+4
+1
+57
+'El dinero total retirado por las 5 personas es: ', suma 
+1

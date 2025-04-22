@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+gasolina
+2
+40
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+3
+1
+1
+1
+4
+1
+51
+'Digite la cantidad de litros gastados en su viaje'
+5
+1
+4
+cant
+6
+1
+4
+suma
+9
+suma+cant
+7
+0
+1
+10
+suma >= 40
+6
+1
+5
+resta
+15
+gasolina - suma
+4
+1
+41
+'Combistible disponible: ',  resta , ' L'
+13
+6
+1
+1
+i
+1
+3
+4
+1
+26
+'Combustible insuficiente'
+13
+10
+1
